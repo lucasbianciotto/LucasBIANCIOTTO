@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Wizard**
 
-- 🌱 I’m currently learning **many things**
+- 🌱 I’m currently learning **Lua**
 
 - 📫 How to reach me <a href="https://twitter.com/raysstv" target="blank">**on Twitter**</a>
 
